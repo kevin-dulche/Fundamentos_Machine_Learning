@@ -6,3 +6,5 @@ Aprendé los fundamentos del Machine Learning con Python a través de ejemplos c
     2. [Modelos supervisados para predecir resultados deportivos](./Contenido/01_Fundamentos_ML/02_Modelos_supervisados_para_predecir_resultados.md)
     3. [Modelos no supervisados para análisis de rendimiento deportivo](./Contenido/01_Fundamentos_ML/03_Modelos_no_supervisados_para_analisis_de_rendimiento.md)
     4. [Configuración de Python y Jupyter para análisis deportivo](./Contenido/01_Fundamentos_ML/04_Configuración_de_Python_y_Jupyter_para_analisis.md)
+2. **Preparación y Exploración de Datos**
+    1. [Limpieza y preparación de datos deportivos con Pandas](./Contenido/02_Preparacion_y_Exploracion_de_Datos/01_Limpieza_y_preparación_de_datos_con_Pandas.md)
