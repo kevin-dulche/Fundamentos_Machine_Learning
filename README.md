@@ -8,3 +8,5 @@ Aprendé los fundamentos del Machine Learning con Python a través de ejemplos c
     4. [Configuración de Python y Jupyter para análisis deportivo](./Contenido/01_Fundamentos_ML/04_Configuración_de_Python_y_Jupyter_para_analisis.md)
 2. **Preparación y Exploración de Datos**
     1. [Limpieza y preparación de datos deportivos con Pandas](./Contenido/02_Preparacion_y_Exploracion_de_Datos/01_Limpieza_y_preparación_de_datos_con_Pandas.md)
+    2. [Análisis estadístico del rendimiento de un equipo de fútbol](./Contenido/02_Preparacion_y_Exploracion_de_Datos/02_Analisis_estadistico.md)
+    3. [Técnicas de escalado de datos con Min Max y Standard Scaler](./Contenido/02_Preparacion_y_Exploracion_de_Datos/03_Tecnicas_de_escalado_de_datos_con_Min_Max_y_Standard_Scaler.md)
