@@ -10,3 +10,6 @@ Aprendé los fundamentos del Machine Learning con Python a través de ejemplos c
     1. [Limpieza y preparación de datos deportivos con Pandas](./Contenido/02_Preparacion_y_Exploracion_de_Datos/01_Limpieza_y_preparación_de_datos_con_Pandas.md)
     2. [Análisis estadístico del rendimiento de un equipo de fútbol](./Contenido/02_Preparacion_y_Exploracion_de_Datos/02_Analisis_estadistico.md)
     3. [Técnicas de escalado de datos con Min Max y Standard Scaler](./Contenido/02_Preparacion_y_Exploracion_de_Datos/03_Tecnicas_de_escalado_de_datos_con_Min_Max_y_Standard_Scaler.md)
+3. **Ingeniería de Características**
+    1. [Creación de variables predictivas en machine learning](./Contenido/03_Ingenieria_de_Caracteristicas/01_Creacion_de_variables_predictivas_en_machine_learning%20copy.md)
+    2. [Selección de características con SelectKBest y árboles de decisión](./Contenido/03_Ingenieria_de_Caracteristicas/02_Seleccion_de_caracteristicas_con_SelectKBest_y_arboles_de_decision.md)
