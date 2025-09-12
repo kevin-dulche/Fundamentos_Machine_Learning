@@ -16,3 +16,4 @@ Aprendé los fundamentos del Machine Learning con Python a través de ejemplos c
 4. **Modelado Predictivo Supervisado**
     1. [División de datos en machine learning con train_test_split](./Contenido/04_Modelado_Predictivo_Supervisado/01_Division_de_datos.md)
     2. [Creación de modelos de regresion lineal para predecir goles](./Contenido/04_Modelado_Predictivo_Supervisado/02_Creacion_de_modelos_de_regresion_lineal.md)
+    3. [Métricas para evaluar modelos de Machine Learning en predicciones](./Contenido/04_Modelado_Predictivo_Supervisado/03_Metricas_para_evaluar_modelos.md)
