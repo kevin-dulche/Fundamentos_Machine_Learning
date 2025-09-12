@@ -15,3 +15,4 @@ Aprendé los fundamentos del Machine Learning con Python a través de ejemplos c
     2. [Selección de características con SelectKBest y árboles de decisión](./Contenido/03_Ingenieria_de_Caracteristicas/02_Seleccion_de_caracteristicas_con_SelectKBest_y_arboles_de_decision.md)
 4. **Modelado Predictivo Supervisado**
     1. [División de datos en machine learning con train_test_split](./Contenido/04_Modelado_Predictivo_Supervisado/01_Division_de_datos.md)
+    2. [Creación de modelos de regresion lineal para predecir goles](./Contenido/04_Modelado_Predictivo_Supervisado/02_Creacion_de_modelos_de_regresion_lineal.md)
