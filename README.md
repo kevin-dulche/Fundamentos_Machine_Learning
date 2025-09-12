@@ -13,3 +13,5 @@ Aprendé los fundamentos del Machine Learning con Python a través de ejemplos c
 3. **Ingeniería de Características**
     1. [Creación de variables predictivas en machine learning](./Contenido/03_Ingenieria_de_Caracteristicas/01_Creacion_de_variables_predictivas_en_machine_learning%20copy.md)
     2. [Selección de características con SelectKBest y árboles de decisión](./Contenido/03_Ingenieria_de_Caracteristicas/02_Seleccion_de_caracteristicas_con_SelectKBest_y_arboles_de_decision.md)
+4. **Modelado Predictivo Supervisado**
+    1. [División de datos en machine learning con train_test_split](./Contenido/04_Modelado_Predictivo_Supervisado/01_Division_de_datos.md)
