@@ -23,3 +23,5 @@ Aprendé los fundamentos del Machine Learning con Python a través de ejemplos c
     1. [Clasificación automática de jugadores con K-means clustering](./Contenido/05_Aprendizaje_No_Supervisado/01_Clasificacion_automatica_con_K_means.md)
     2. [Interpretación de clusters de K-means para perfiles de jugadores](./Contenido/05_Aprendizaje_No_Supervisado/02_Interpretacion_de_clusters.md)
     3. [Visualización de perfiles de jugadores con análisis PCA](./Contenido/05_Aprendizaje_No_Supervisado/03_Visualizacion_de_perfiles_con_PCA.md)
+6. **Pipeline y Proyecto Final**
+    1. [Pipelines integrados de machine learning para predicción deportiva](./Contenido/06_Pipeline_y_Proyecto_Final/01_Pipelines_integrados_de_machine_learning.md)
