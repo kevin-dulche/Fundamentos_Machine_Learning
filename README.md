@@ -25,3 +25,5 @@ Aprendé los fundamentos del Machine Learning con Python a través de ejemplos c
     3. [Visualización de perfiles de jugadores con análisis PCA](./Contenido/05_Aprendizaje_No_Supervisado/03_Visualizacion_de_perfiles_con_PCA.md)
 6. **Pipeline y Proyecto Final**
     1. [Pipelines integrados de machine learning para predicción deportiva](./Contenido/06_Pipeline_y_Proyecto_Final/01_Pipelines_integrados_de_machine_learning.md)
+7. **Introducción al Deep Learning**
+    1. [Construcción de redes neuronales básicas con PyTorch](./Contenido/07_Introduccion_al_Deep_Learning/01_Construccion_de_redes_neuronales_basicas_con_PyTorch.md)
