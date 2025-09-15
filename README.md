@@ -27,3 +27,5 @@ Aprendé los fundamentos del Machine Learning con Python a través de ejemplos c
     1. [Pipelines integrados de machine learning para predicción deportiva](./Contenido/06_Pipeline_y_Proyecto_Final/01_Pipelines_integrados_de_machine_learning.md)
 7. **Introducción al Deep Learning**
     1. [Construcción de redes neuronales básicas con PyTorch](./Contenido/07_Introduccion_al_Deep_Learning/01_Construccion_de_redes_neuronales_basicas_con_PyTorch.md)
+8. **NLP en nuestro caso de uso**
+    1. [Análisis de sentimientos en comentarios deportivos con Python](./Contenido/08_NLP_en_nuestro_caso_de_uso/01_Analisis_de_sentimientos_en_comentarios_deportivos_con_Python.md)
